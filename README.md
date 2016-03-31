@@ -116,3 +116,7 @@ Jarvis.register("create.a.file.called(filename)", input => {
 // Use
 Jarvis.create.a.file.called("new-file.txt").please()
 ```
+
+## Examples
+
+* [Live example on codepen](http://codepen.io/danieltartarottisobrosa/pen/GZmwNz?editors=0010)
